@@ -20,7 +20,8 @@ e)aws ecs cli
 
 # set up nginx for ssl
 
-<https://www.digitalocean.com/community/tutorials/how-to-configure-nginx-with-ssl-as-a-reverse-proxy-for-jenkins>
+* <https://www.digitalocean.com/community/tutorials/how-to-configure-nginx-with-ssl-as-a-reverse-proxy-for-jenkins>
+* <https://github.com/aws-samples/amazon-ecs-fargate-aspnetcore/blob/master/reverseproxy/nginx.conf>
 
 # Create ASP.NET core mvc application
 Let's leverage the terminal in the mac for creating, building and publishing the ASP.NET core mvc core application. Navigate to the directory where the entire set up needs to be created and issue the following commands in the terminal
